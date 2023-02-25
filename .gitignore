@@ -1,0 +1,8 @@
+# LaTex Build
+*.nav
+*.pdf
+*.snm
+*.vrb
+
+# Compiler output
+**/main
